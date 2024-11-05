@@ -1,29 +1,27 @@
 [
- {
+{
     "itemID": 1,
     "itemName": "help.js",
     "type": "GoatMart",
     "description": "", 
-    "authorName": "ArYAN",
+    "authorName": "ArYan 🐔",
     "timestamp": "2024-11-05T10:15:30Z",
     "pastebinLink": "https://paste.c-net.org/ClickedSlater"
-  },
-  {
+  },{
     "itemID": 2,
     "itemName": "imgur.js",
     "type": "GoatMart",
-    "description": "",
+    "description": "", 
     "authorName": "ArYAN",
-    "timestamp": "2024-11-04T14:00:00Z",
+    "timestamp": "2024-11-05T10:15:30Z",
     "pastebinLink": "https://paste.c-net.org/ChaoticDictator"
-   },
-   {
+  },{
     "itemID": 3,
     "itemName": "pest.js",
     "type": "GoatMart",
-    "description": "",
+    "description": "", 
     "authorName": "ArYAN",
-    "timestamp": "2024-11-05T09:42:00Z",
+    "timestamp": "2024-11-05T10:15:30Z",
     "pastebinLink": "https://paste.c-net.org/MorbidFrankie"
-   }
- ]
+  }
+]
